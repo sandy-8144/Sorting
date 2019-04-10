@@ -11,6 +11,9 @@ public final class InsertionSort {
 	 *                i) swap element to right and create correct position
 	 *        c) increment the marker of sorrted array by 1
 	 * 4. its are inserting card at appropriate position.
+	 * 
+	 * Insertion sort is better than bubble sort
+	 * 
 	 * Ref: 
 	 * https://www.youtube.com/watch?v=OGzPmgsI-pQ&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW&index=3
 	 * 

@@ -7,6 +7,8 @@ public class BubbleSort {
 	 *  In this process max element will reach to last. now repeat this process for 1 to N-1
 	 *  
 	 *   TC: O(n^2)
+	 *   
+	 *   Bubble sort is most inefficient algorithm. Insertion sort is better than bubble sort.
 	 * 
 	 */
 	
